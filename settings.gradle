@@ -1,0 +1,3 @@
+rootProject.name='Neumorphism'
+include ':neumorphism'
+include ':sample'
